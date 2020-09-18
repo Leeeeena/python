@@ -8,4 +8,4 @@ s=1/2*x*y
 print(s, 'площадь')
 p=x+y+c
 print(p, 'периметр')
-print("first commenttt")
+
